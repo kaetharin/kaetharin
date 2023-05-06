@@ -1,4 +1,4 @@
-### hallo my nickname is kat. I like listen to music in my free time.👋
+### hello my nickname is kat. I like listen to music in my free time.👋
 
 
 **kaetharin/kaetharin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
